@@ -1,6 +1,9 @@
 # Candy-Web !
+
 ~ HTML / CSS 
-~ Hey guys I just created Cool Candy website, please go ahead and try. 
+
+
+~ Hey guys I just created Cool Candy website ,  please go ahead and try. 
 
 
 ![1](https://github.com/Tkz-Hx/Candy-Web/assets/134191208/0c13baf9-1e93-4d9d-97de-95e63e64d199)
